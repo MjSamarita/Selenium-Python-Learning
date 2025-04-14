@@ -1,3 +1,10 @@
+# Author: Mary Joy Samarita
+# Year: 2025
+# Description: This script is part of my personal portfolio.
+# Contact me for full code
+
+
+
 from selenium import webdriver
 
 driver = webdriver.Chrome()
